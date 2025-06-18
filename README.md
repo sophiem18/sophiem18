@@ -8,3 +8,5 @@
   
 </ul>
 
+### Take a look around. 
+My page mainly contains my school projects. I am working on my portfolio - I want it to be perfect and really reflect who I am as a designer and developer.
